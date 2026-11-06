@@ -1,5 +1,6 @@
 # NMIMS Entry Exit QR System
 
+
 ## 📌 Project Overview
 
 The **NMIMS Entry Exit QR System** is an Android-based smart campus security application developed for managing student entry and exit records using QR/Barcode scanning technology.
